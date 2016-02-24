@@ -6,38 +6,74 @@ Direct3D:
     Vendor:   Intel
     VRAM:     128 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Andre\Desktop\githubprocess_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Andre\Desktop\githubprocess_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Andre\Desktop\githubprocess_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Andre\Desktop\githubprocess_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Andre\Desktop\githubprocess_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Andre\Desktop\githubprocess_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Andre\Desktop\githubprocess_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Andre\Desktop\githubprocess_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\Andre\Desktop\githubprocess_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.233 seconds
+Platform assembly: C:\Users\Andre\Documents\Github\githubprocessandrefarrugia\githubprocess_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Andre\Documents\Github\githubprocessandrefarrugia\githubprocess_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Andre\Documents\Github\githubprocessandrefarrugia\githubprocess_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Andre\Documents\Github\githubprocessandrefarrugia\githubprocess_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Andre\Documents\Github\githubprocessandrefarrugia\githubprocess_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Andre\Documents\Github\githubprocessandrefarrugia\githubprocess_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Andre\Documents\Github\githubprocessandrefarrugia\githubprocess_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Andre\Documents\Github\githubprocessandrefarrugia\githubprocess_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Andre\Documents\Github\githubprocessandrefarrugia\githubprocess_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.086 seconds
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-Platform assembly: C:\Users\Andre\Desktop\githubprocess_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Andre\Documents\Github\githubprocessandrefarrugia\githubprocess_Data\Managed\System.dll (this message is harmless)
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 798 -> priority: 1 
+  Thread -> id: 2928 -> priority: 1 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 18.887756 ms
+UnloadTime: 22.453535 ms
 
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 208.
-Total: 0.734281 ms (FindLiveObjects: 0.040627 ms CreateObjectMapping: 0.037633 ms MarkObjects: 0.627368 ms  DeleteObjects: 0.026942 ms)
+Total: 0.722307 ms (FindLiveObjects: 0.043193 ms CreateObjectMapping: 0.067996 ms MarkObjects: 0.583319 ms  DeleteObjects: 0.025659 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.299066 ms
+UnloadTime: 1.334707 ms
 
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 208.
-Total: 0.662435 ms (FindLiveObjects: 0.039771 ms CreateObjectMapping: 0.033356 ms MarkObjects: 0.561509 ms  DeleteObjects: 0.026514 ms)
+Total: 0.602991 ms (FindLiveObjects: 0.035067 ms CreateObjectMapping: 0.029508 ms MarkObjects: 0.514895 ms  DeleteObjects: 0.022237 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.259440 ms
+UnloadTime: 1.418100 ms
 
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 208.
-Total: 0.821095 ms (FindLiveObjects: 0.052173 ms CreateObjectMapping: 0.032501 ms MarkObjects: 0.707339 ms  DeleteObjects: 0.027369 ms)
+Total: 0.753526 ms (FindLiveObjects: 0.051746 ms CreateObjectMapping: 0.043193 ms MarkObjects: 0.634210 ms  DeleteObjects: 0.022665 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.822378 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 202.
+Total: 0.953240 ms (FindLiveObjects: 0.085530 ms CreateObjectMapping: 0.029080 ms MarkObjects: 0.815535 ms  DeleteObjects: 0.020955 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.002420 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.646184 ms (FindLiveObjects: 0.035067 ms CreateObjectMapping: 0.035495 ms MarkObjects: 0.554666 ms  DeleteObjects: 0.019244 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.914323 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 202.
+Total: 0.456734 ms (FindLiveObjects: 0.025659 ms CreateObjectMapping: 0.021810 ms MarkObjects: 0.388309 ms  DeleteObjects: 0.018816 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.533138 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.635065 ms (FindLiveObjects: 0.035922 ms CreateObjectMapping: 0.031218 ms MarkObjects: 0.543547 ms  DeleteObjects: 0.022665 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.966497 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.697931 ms (FindLiveObjects: 0.033784 ms CreateObjectMapping: 0.036350 ms MarkObjects: 0.604702 ms  DeleteObjects: 0.021382 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.831786 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.519599 ms (FindLiveObjects: 0.027797 ms CreateObjectMapping: 0.021810 ms MarkObjects: 0.450319 ms  DeleteObjects: 0.018389 ms)
 
